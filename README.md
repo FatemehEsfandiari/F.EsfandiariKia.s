@@ -1,5 +1,7 @@
 # F.EsfandiariKia.s
 class Queue:
+# max_size: size of Q
+# Q: Array
 def __init__(self, max_size):
 self.max_size = max_size
 self.Q = [0] * max_size
